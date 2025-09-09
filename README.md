@@ -2,11 +2,6 @@
 Name :A.HALIMA HARISHA
 Roll no : 212224040094
 Date of experiment :09/09/2025
-
-
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
